@@ -1,0 +1,16 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.19"]
+[White "HumanGuy0"]
+[Black "J-Musser"]
+[Result "0-1"]
+[WhiteElo "793"]
+[BlackElo "1063"]
+[TimeControl "1 in 3 days"]
+[Termination "J-Musser won by checkmate"]
+
+1.d4 e6 2.Bf4 Qf6 3.e3 d6 4.Bb5+ c6 5.Ba4 b5 6.Bb3 Na6 7.a4 e5 8.axb5 cxb5 9.Rxa6 Bxa6 10.Bg3 exd4
+ 11.exd4 d5 12.Ne2 b4 13.Bxd5 O-O-O 14.Nd2 Rxd5 15.O-O Rh5 16.Ne4 Qh6 17.Bf4 Qe6 18.f3 Rh4 19.g3 Rh5 20.c3 b3
+ 21.Nc1 Bxf1 22.Kxf1 Qh3+ 23.Kf2 Qxh2+ 24.Ke3 Qxb2 25.Nd3 Qa3 26.g4 Rh3 27.Qf1 Rh2 28.Qg1 Ra2 29.Qh1 b2 30.Qb1 Be7
+ 31.Nd2 Ra1 32.Qc2 Nf6 33.Nc4 Qa2 34.Ncxb2 Kd7 35.g5 Nd5+ 36.Kf2 Rb8 37.Nb4 Nxb4 38.cxb4 Rxb4 39.Bc1 Bxg5 40.f4 Bxf4
+ 41.Bxf4 Rxb2 42.Qxb2 Qxb2+ 43.Kg3 Rg1+ 44.Kh4 Qg2 45.Be3 Rh1# 0-1

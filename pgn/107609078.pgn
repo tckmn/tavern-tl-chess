@@ -1,0 +1,13 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.19"]
+[White "Undo1"]
+[Black "HumanGuy0"]
+[Result "1-0"]
+[WhiteElo "1516"]
+[BlackElo "869"]
+[TimeControl "1 in 3 days"]
+[Termination "Undo1 won by checkmate"]
+
+1.e4 g6 2.Bc4 Bh6 3.Qf3 e6 4.Nc3 Ne7 5.b3 O-O 6.Bb2 Nbc6 7.O-O-O Na5 8.Nb5 g5 9.Qf6 Nec6 10.Qh8#
+ 1-0
