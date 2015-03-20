@@ -1,0 +1,13 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.20"]
+[White "J-Musser"]
+[Black "ProgramFOX"]
+[Result "0-1"]
+[WhiteElo "1006"]
+[BlackElo "1214"]
+[TimeControl "1 in 3 days"]
+[Termination "ProgramFOX won by checkmate"]
+
+1.e4 e5 2.Qh5 g6 3.Qxe5+ Ne7 4.Qxh8 Nbc6 5.Qxh7 d6 6.Bc4 Ne5 7.d3 Bg4 8.Qh4 Qd7 9.h3 Bh5 10.f4 Nxc4
+ 11.dxc4 O-O-O 12.f5 Qa4 13.b3 Qb4+ 14.Bd2 Qb6 15.f6 Ng8 16.Ne2 Qd4 17.Bc3 Qe3 18.Qg3 Qxe2# 0-1
