@@ -23,9 +23,9 @@ print 'Downloading PGN files... '
 ids.uniq!.reject! { |id| File::exist? "pgn/#{id}.pgn" }
 ids.each_with_index do |id, i|
     progress i, ids.length
-    open "pgn/#{id}.pgn", 'wb' do |f|
-        pgn = open("http://www.chess.com/echess/download_pgn?id=#{id}").read
-        if pgn.scan(/\[(?:White|Black) "([^"]+)"\]/).all? { |x| members.keys.include? x[0] }
+    pgn = open("http://www.chess.com/echess/download_pgn?id=#{id}").read
+    if pgn.scan(/\[(?:White|Black) "([^"]+)"\]/).all? { |x| members.keys.include? x[0] }
+        open "pgn/#{id}.pgn", 'wb' do |f|
             f << pgn
         end
     end
