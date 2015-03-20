@@ -1,0 +1,13 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.20"]
+[White "Undo1"]
+[Black "HumanGuy0"]
+[Result "1-0"]
+[WhiteElo "1526"]
+[BlackElo "795"]
+[TimeControl "1 in 3 days"]
+[Termination "Undo1 won by resignation"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.Bb5 a6 5.Bxc6 dxc6 6.Nxe5 Qe7 7.Qh5 Nf6 8.Qg5 Bd6 9.d4 b6 10.Qxg7 Rf8
+ 11.Bg5 Be6 12.Bxf6 Qd7 13.Nxd7 1-0

@@ -1,0 +1,20 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.19"]
+[White "Undo1"]
+[Black "KeyboardFire"]
+[Result "0-1"]
+[WhiteElo "1408"]
+[BlackElo "1485"]
+[TimeControl "1 in 3 days"]
+[Termination "KeyboardFire won by checkmate"]
+
+1.e4 e5 2.Bc4 Nh6 3.d3 Bc5 4.Nf3 Ng4 5.O-O O-O 6.Nc3 c6 7.Na4 b5 8.Nxc5 bxc4 9.Bg5 Nf6 10.Nxe5 d6
+ 11.Nxc4 dxc5 12.e5 Bg4 13.f3 Qd4+ 14.Kh1 Be6 15.c3 Qd8 16.Nd6 h6 17.Bxf6 gxf6 18.Nb7 Qc7 19.Nxc5 Qxe5 20.d4 Qd6
+ 21.Ne4 Qf4 22.b3 Nd7 23.c4 f5 24.g3 Qc7 25.Nf2 Nf6 26.d5 cxd5 27.g4 h5 28.g5 Nh7 29.g6 fxg6 30.Rg1 d4
+ 31.Rxg6+ Kf7 32.Rh6 Nf6 33.Qxd4 Ke7 34.Rg1 Ng4 35.Rh7+ Rf7 36.Rh6 Nxh6 37.Qe3 f4 38.Qe4 Rg8 39.Re1 Qb6 40.c5 Qa6
+ 41.c6 Rf6 42.Qb4+ Kf7 43.Ne4 Qxa2 44.Nd6+ Kf8 45.Qb8+ Ke7 46.Qc7+ Kf8 47.Qd8+ Kg7 48.Rg1+ Rg6 49.Ne8+ Kf7 50.Nd6+ Kg7
+ 51.Qe7+ Bf7 52.c7 Kh7 53.Qe1 Rxg1+ 54.Qxg1 Rxg1+ 55.Kxg1 Qa6 56.c8=Q Qxc8 57.Nxc8 Bxb3 58.Nxa7 Bd1 59.Kg2 Nf5 60.Kf2 Nd4
+ 61.h3 Bxf3 62.Nc8 Be2 63.Ne7 f3 64.Nd5 Ne6 65.Nf6+ Kg6 66.Nd5 Ng5 67.Nf4+ Kh6 68.h4 Ne4+ 69.Ke3 Nc3 70.Kf2 Nd1+
+ 71.Ke1 Bc4 72.Nh3 Be6 73.Nf2 Nxf2 74.Kxf2 Bg4 75.Kg3 Kg6 76.Kf2 Kf5 77.Kf1 Kf4 78.Kf2 Ke4 79.Kg3 Ke3 80.Kh2 f2
+ 81.Kg2 Ke2 82.Kg3 f1=Q 83.Kh2 Qf2+ 84.Kh1 Bf3# 0-1
