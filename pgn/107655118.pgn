@@ -1,0 +1,17 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.20"]
+[White "ProgramFOX"]
+[Black "HumanGuy0"]
+[Result "0-1"]
+[WhiteElo "1005"]
+[BlackElo "867"]
+[TimeControl "1 in 3 days"]
+[Termination "HumanGuy0 won by checkmate"]
+
+1.e4 e5 2.Nc3 Bb4 3.Nf3 d6 4.Bb5+ c6 5.Bd3 Nf6 6.O-O O-O 7.Na4 Qa5 8.b3 Bg4 9.Nh4 b5 10.Nb2 Bxd1
+ 11.a3 Bxa3 12.Nxd1 Qb6 13.Bxa3 g5 14.Nf5 g4 15.Ne7+ Kh8 16.Bxd6 Qd8 17.Bxb8 Qxe7 18.Ne3 Raxb8 19.Nf5 Qd8 20.Rxa7 Qb6
+ 21.Re7 Rfd8 22.c4 Rxd3 23.Nh6 Rxb3 24.Nxf7+ Kg8 25.Nh6+ Kf8 26.Rf7+ Ke8 27.c5 Qd8 28.Rg7 b4 29.Nf7 Qd7 30.Nd6+ Qxd6
+ 31.cxd6 Rd3 32.Re7+ Kf8 33.g3 Nxe4 34.Rxh7 Nxd6 35.Rh8+ Kg7 36.Rxb8 b3 37.Re1 Nf7 38.Re4 Kf6 39.Rxg4 Rd4 40.Rgg8 Nd6
+ 41.Rgf8+ Kg5 42.Rg8+ Kh5 43.h3 Rd5 44.g4+ Kh4 45.Rh8+ Kg5 46.Rbg8+ Kf4 47.h4 b2 48.Rb8 Nb5 49.Rhf8+ Kxg4 50.f3+ Kg3
+ 51.h5 b1=Q# 0-1

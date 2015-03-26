@@ -1,0 +1,15 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.20"]
+[White "Undo1"]
+[Black "sethdj"]
+[Result "1-0"]
+[WhiteElo "1336"]
+[BlackElo "964"]
+[TimeControl "1 in 3 days"]
+[Termination "Undo1 won by checkmate"]
+
+1.e4 Nf6 2.Nc3 Nc6 3.Bc4 Ne5 4.d3 e6 5.Bg5 h6 6.Bxf6 Qxf6 7.Nb5 Ng4 8.Qxg4 Bc5 9.Nh3 d5 10.Nxc7+ Kd7
+ 11.Nxa8 dxc4 12.O-O-O c3 13.b3 Ba3+ 14.Kb1 Bb2 15.f4 Qe7 16.Qxg7 Bc1 17.Rxc1 Qa3 18.Qxc3 Ke7 19.Qc7+ Kf6 20.e5+ Kg6
+ 21.f5+ exf5 22.Nf4+ Kg5 23.Nh3+ Kg4 24.Qc4+ f4 25.Qxf4+ Kh5 26.Qxf7+ Kg4 27.Nf4 a5 28.Qg6+ Kxf4 29.Rhf1+ Kxe5 30.Qf6+ Kd5
+ 31.Nc7+ Kc5 32.Rf5+ Kb4 33.Qd4# 1-0
