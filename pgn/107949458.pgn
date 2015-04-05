@@ -1,0 +1,15 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.25"]
+[White "HumanGuy0"]
+[Black "Unihedron"]
+[Result "1-0"]
+[WhiteElo "927"]
+[BlackElo "1009"]
+[TimeControl "1 in 3 days"]
+[Termination "HumanGuy0 won by resignation"]
+
+1.e3 Nf6 2.Bd3 c5 3.Nf3 e5 4.Nxe5 d6 5.Nc4 Bg4 6.f3 d5 7.Ne5 c4 8.fxg4 cxd3 9.Nxd3 d4 10.exd4 Qxd4
+ 11.Qe2+ Be7 12.a4 Nxg4 13.h3 Nf2 14.Qxf2 Qe4+ 15.Kf1 Bh4 16.g3 Qxh1+ 17.Qg1 Qxh3+ 18.Qg2 Qf5+ 19.Kg1 Bf6 20.Nc3 O-O
+ 21.b3 Bd4+ 22.Nf2 Bxf2+ 23.Qxf2 Qxf2+ 24.Kxf2 Nc6 25.d3 Nd4 26.Be3 Rfd8 27.Nb5 Nxc2 28.Re1 Rxd3 29.Re2 Rc8 30.Nxa7 Rc6
+ 31.Nxc6 bxc6 32.Rxc2 1-0

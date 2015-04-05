@@ -1,0 +1,14 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.21"]
+[White "sethdj"]
+[Black "HumanGuy0"]
+[Result "1-0"]
+[WhiteElo "1060"]
+[BlackElo "873"]
+[TimeControl "1 in 3 days"]
+[Termination "sethdj won by checkmate"]
+
+1.e3 e6 2.Nf3 Qf6 3.d4 Bb4+ 4.Bd2 Nc6 5.Qe2 Qg6 6.Qc4 a5 7.e4 Nge7 8.Nc3 b5 9.Ne5 Qf6 10.O-O-O bxc4
+ 11.Nb5 Ra7 12.Nxa7 Nxa7 13.Bxc4 Qxf2 14.Nf3 Qxg2 15.Rhf1 Qg6 16.Ng5 Bxd2+ 17.Rxd2 Qxg5 18.d5 O-O 19.d6 Nec6 20.dxc7 Qc5
+ 21.Ba6 Bxa6 22.b4 axb4 23.Rf3 Rc8 24.Rxd7 Nb5 25.Rfd3 Ne5 26.Rd8+ Qf8 27.Rxf8+ Kxf8 28.Rd8+ Rxd8 29.cxd8=Q# 1-0

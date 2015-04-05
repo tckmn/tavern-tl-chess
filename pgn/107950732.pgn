@@ -1,0 +1,15 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.25"]
+[White "HumanGuy0"]
+[Black "ProgramFOX"]
+[Result "0-1"]
+[WhiteElo "899"]
+[BlackElo "1076"]
+[TimeControl "1 in 3 days"]
+[Termination "ProgramFOX won by checkmate"]
+
+1.d4 e6 2.Bf4 Bb4+ 3.c3 Ba5 4.Nd2 Nf6 5.Qa4 O-O 6.Qxa5 d6 7.Nh3 Nc6 8.Qg5 Qe8 9.e3 b5 10.Qxb5 a6
+ 11.Qd3 a5 12.Qc2 e5 13.dxe5 dxe5 14.Bg5 Nd5 15.e4 Nb6 16.Be2 Be6 17.O-O Qd7 18.Nb3 a4 19.Nc5 Qc8 20.b3 axb3
+ 21.axb3 Rxa1 22.Rxa1 Bg4 23.Qd3 Bxe2 24.Qxe2 h6 25.Bc1 Nd7 26.Be3 Nxc5 27.Bxc5 Rd8 28.Ra6 Qd7 29.f3 Nb8 30.Ra4 Nc6
+ 31.Nf2 Qe6 32.c4 Qf6 33.Ng4 Qh4 34.Qb2 Qe1# 0-1

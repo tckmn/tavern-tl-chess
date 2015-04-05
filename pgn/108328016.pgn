@@ -1,0 +1,12 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.03.31"]
+[White "ProgramFOX"]
+[Black "HumanGuy0"]
+[Result "1-0"]
+[WhiteElo "1076"]
+[BlackElo "837"]
+[TimeControl "1 in 3 days"]
+[Termination "ProgramFOX won on time"]
+
+1.e4 d6 2.Bb5+ Bd7 3.Nc3 1-0
